@@ -1,24 +1,7 @@
-# Regenerable / bulky — recreate via v2/scripts/fetch_transcripts.py + the generator
-v2/cache/
-v2/scratch/
+cache/
+scratch/
 **/__pycache__/
 *.pyc
 .DS_Store
-
-# Backups (full 10k gazetteer + previous generator)
-v2/scripts/*.bak.json
-v2/scripts/*.bak.py
-
-# Retired diagram (superseded by policy-signal-dataflow.html)
-v2/output/current-setup-diagram.html
-
-# v1 killed-prototype (the alpha event-study; superseded by the v2 evidence feed).
-# The shared corpus (output/posts_all.csv, output/market_prices.csv) is KEPT;
-# the heavy v1-only derived outputs are not.
-/scripts/
-output/event_returns.csv
-output/claims.csv
-output/top_event_moves.csv
-output/topic_summary.csv
-output/asset_summary.csv
-output/trumpfm_crosscheck.csv
+scripts/*.bak.json
+scripts/*.bak.py

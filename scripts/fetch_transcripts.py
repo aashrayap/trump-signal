@@ -13,7 +13,7 @@ in-scope events. Two fixes here:
      live on each /documents/<slug> page (`.field-docs-content`). So for each
      result we FOLLOW the link and fetch the full transcript BODY.
 
-Writes (under v2/cache/):
+Writes (under cache/):
   app_<query>.html        2nd-term search listing  (overwrites stale 1st-term)
   appdoc_<slug>.html      full document/transcript body page
 

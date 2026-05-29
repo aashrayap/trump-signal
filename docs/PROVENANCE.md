@@ -1,6 +1,7 @@
 # Trump Truth Social → Market Alpha — Prototype Import (provenance)
 
-Local working copy. Ignored by git (repo-root `/tmp/`). Do not commit.
+Provenance record for the v1 prototype data that seeded this project. The
+`output/` paths below are the **source repo's** layout, retained for traceability.
 
 ## Source
 Copied 2026-05-29 from the local Codex CLI run:
@@ -9,6 +10,11 @@ Copied 2026-05-29 from the local Codex CLI run:
 Original scope: Trump's Truth posts from 2025-01-20 onward; event study vs daily market bars.
 
 ## Files copied (byte-identical to source)
+
+> Paths in this table are **source-repo paths** (the v1 prototype's `output/`
+> tree at the location above) — they are **not** paths in this repo. Here, the
+> two inputs that carried over live at `data/posts_all.csv` and
+> `data/market_prices.csv`; the rest were v1-only event-study artifacts.
 
 | File | Rows | What it is |
 | --- | --- | --- |

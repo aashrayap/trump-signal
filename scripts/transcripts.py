@@ -16,7 +16,7 @@ official/spoken sources into dated {date, channel, title, url, body} events:
         via <link rel=canonical>.
 
 CACHE ONLY — no network. This module never imports requests; it only reads
-files already present under v2/cache/.
+files already present under cache/.
 
 Channel mapping (task spec):
     remarks / exchange / pool report          -> oval_remark
@@ -29,7 +29,7 @@ date D via channel C". It never infers impact and never scores returns.
 Weighting + entity extraction live downstream in the generator.
 
 Run standalone to self-demonstrate on the cache:
-    python3 scratch/transcripts.py
+    python3 scripts/transcripts.py
 """
 from __future__ import annotations
 
@@ -44,9 +44,9 @@ from bs4 import BeautifulSoup
 # --------------------------------------------------------------------------- #
 # Paths — resolve cache relative to this file so cwd never matters.
 # --------------------------------------------------------------------------- #
-SCRATCH = Path(__file__).resolve().parent              # .../v2/scratch
-V2 = SCRATCH.parent                                    # .../v2
-CACHE = V2 / "cache"
+HERE = Path(__file__).resolve().parent                # .../scripts
+ROOT = HERE.parent                                    # repo root
+CACHE = ROOT / "cache"
 APP_BASE = "https://www.presidency.ucsb.edu"
 
 SCOPE_START = dt.date(2025, 1, 20)                     # match generator scope
@@ -550,4 +550,4 @@ def _dump_json(events, stats, path: Path):
 
 if __name__ == "__main__":
     evs, st = _demo()
-    _dump_json(evs, st, SCRATCH / "transcripts_events.json")
+    _dump_json(evs, st, HERE / "transcripts_events.json")

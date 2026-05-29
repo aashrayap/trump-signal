@@ -1,5 +1,10 @@
 # Prototype Report - Trump Truth Social Market Event Study
 
+> **Historical document — the killed v1 event-study prototype.** Paths below
+> (the `output/` tree) describe that prototype's own layout, **not** this repo.
+> In the current flat layout, inputs live under `data/` and generated artifacts
+> under `outputs/`. See the root `README.md` for the live layout.
+
 Run date: 2026-05-25T16:33:40.346877+00:00
 Scope: 2025-01-20 through 2026-05-25
 
@@ -28,12 +33,12 @@ Scope: 2025-01-20 through 2026-05-25
 - Multiple testing is not yet corrected beyond reporting random-date p-values.
 - Direct Truth Social scraping was avoided; archive provenance retained in CSV outputs.
 
-## Output Files
-- `output/posts_all.csv`
-- `output/claims.csv`
-- `output/trumpfm_crosscheck.csv`
-- `output/market_prices.csv`
-- `output/event_returns.csv`
-- `output/topic_summary.csv`
-- `output/asset_summary.csv`
-- `output/top_event_moves.csv`
+## Output Files (v1 prototype layout — historical, not this repo)
+- `output/posts_all.csv` → now `data/posts_all.csv`
+- `output/claims.csv` (v1 only; not regenerated in current pipeline)
+- `output/trumpfm_crosscheck.csv` (v1 only)
+- `output/market_prices.csv` → now `data/market_prices.csv`
+- `output/event_returns.csv` (v1 only)
+- `output/topic_summary.csv` (v1 only)
+- `output/asset_summary.csv` (v1 only)
+- `output/top_event_moves.csv` (v1 only)

@@ -31,8 +31,8 @@ flowchart LR
 
 Three source families → a hybrid extractor (theme regex + a curated company gazetteer) → weighted, deduped, confidence-filtered events → rolled up by **theme / company / time** → two outputs:
 
-- **Machine layer** — `v2/output/trump-policy-signal.xlsx` (7 tabs: `events`, `entity_rollup`, `theme_rollup`, `timeline`, `market_context`, `source_weights`, `discards`).
-- **Human brief** — `v2/output/policy-signal-brief.md` (weekly read: *new this week* · *themes pushed* · *companies named* · *discarded/audit*).
+- **Machine layer** — `outputs/trump-policy-signal.xlsx` (7 tabs: `events`, `entity_rollup`, `theme_rollup`, `timeline`, `market_context`, `source_weights`, `discards`).
+- **Human brief** — `policy-signal-brief.md` (weekly read: *new this week* · *themes pushed* · *companies named* · *discarded/audit*).
 
 ## Design principles
 
@@ -56,7 +56,8 @@ Rollups add a **decay-weighted** standing score and **week-over-week momentum**.
 ## Layout
 
 ```
-v2/scripts/
+policy-signal-brief.md        the human brief (weekly read)
+scripts/
   generate_policy_signal.py   orchestrator: load → extract → weight → roll up → render
   extractor.py                hybrid theme + open-vocab company extractor (+ blocklist)
   resolver.py                 gazetteer name→ticker matcher (greedy, context-gated)
@@ -67,19 +68,22 @@ v2/scripts/
   attack_blocklist.json       media / political attack-target drops
   ambiguity_blocklist.json    common-word gating (Apple/Texas/Arm need context)
   common_word_gate.json       frozen common-English-word gate
-v2/output/
-  policy-signal-brief.md      the human brief
+data/                         INPUTS
+  posts_all.csv               Truth Social corpus
+  market_prices.csv           price bars
+outputs/                      GENERATED
   trump-policy-signal.xlsx    the machine layer (7 tabs)
   policy-signal-dataflow.html the data-path diagram (rendered)
-output/
-  posts_all.csv               Truth Social corpus (input)
-  market_prices.csv           price bars (input)
+docs/
+  PROVENANCE.md               source provenance + fetch notes
+  prototype-report.md         the v1 killed-prototype event-study report
+cache/                        gitignored HTML cache (WH/APP/Nasdaq), regenerable
 ```
 
 ## Run
 
 ```bash
-cd v2/scripts
+cd scripts
 python3 build_universe.py        # build the curated universe + blocklist (idempotent)
 python3 fetch_transcripts.py     # live: fetch 2nd-term APP transcript bodies into cache/
 cd ..
