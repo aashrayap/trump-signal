@@ -1,0 +1,16 @@
+{
+ "NYT": "New York Times - media/attack target, not an investment signal",
+ "NWSA": "News Corp - media",
+ "NWS": "News Corp - media",
+ "FOXA": "Fox - media",
+ "FOX": "Fox - media",
+ "CMCSA": "Comcast/NBC/MSNBC - media",
+ "WBD": "Warner Bros Discovery/CNN - media",
+ "PARA": "Paramount/CBS - media",
+ "PARAA": "Paramount/CBS - media",
+ "TGNA": "Tegna - local media",
+ "GCI": "Gannett - media",
+ "SSP": "Scripps - media",
+ "NXST": "Nexstar - media",
+ "DJT": "Trump Media - self-referential noise"
+}

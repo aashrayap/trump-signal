@@ -1,0 +1,2187 @@
+[
+ {
+  "ticker": "NVDA",
+  "title": "NVIDIA CORP",
+  "distinctive": "NVIDIA",
+  "aliases": [
+   "NVIDIA",
+   "NVIDIA CORP"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AMD",
+  "title": "ADVANCED MICRO DEVICES INC",
+  "distinctive": "Advanced Micro Devices",
+  "aliases": [
+   "ADVANCED MICRO DEVICES",
+   "ADVANCED MICRO DEVICES INC",
+   "Advanced Micro Devices"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "INTC",
+  "title": "INTEL CORP",
+  "distinctive": "Intel",
+  "aliases": [
+   "INTEL",
+   "INTEL CORP",
+   "Intel"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TSM",
+  "title": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+  "distinctive": "Taiwan Semiconductor Manufacturing",
+  "aliases": [
+   "TAIWAN SEMICONDUCTOR MANUFACTURING",
+   "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+   "TSMC",
+   "TSMC ADR",
+   "Taiwan Semiconductor",
+   "Taiwan Semiconductor Manufacturing"
+  ],
+  "source": "sec+manual"
+ },
+ {
+  "ticker": "AVGO",
+  "title": "Broadcom Inc",
+  "distinctive": "Broadcom",
+  "aliases": [
+   "Broadcom",
+   "Broadcom Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "QCOM",
+  "title": "QUALCOMM INC",
+  "distinctive": "Qualcomm",
+  "aliases": [
+   "QUALCOMM",
+   "QUALCOMM INC",
+   "Qualcomm"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MU",
+  "title": "MICRON TECHNOLOGY INC",
+  "distinctive": "Micron",
+  "aliases": [
+   "MICRON",
+   "MICRON TECHNOLOGY",
+   "MICRON TECHNOLOGY INC",
+   "Micron"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TXN",
+  "title": "TEXAS INSTRUMENTS INC",
+  "distinctive": "Texas Instruments",
+  "aliases": [
+   "TEXAS INSTRUMENTS",
+   "TEXAS INSTRUMENTS INC",
+   "Texas Instruments"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ADI",
+  "title": "ANALOG DEVICES INC",
+  "distinctive": "Analog Devices",
+  "aliases": [
+   "ANALOG",
+   "ANALOG DEVICES",
+   "ANALOG DEVICES INC",
+   "Analog Devices"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NXPI",
+  "title": "NXP Semiconductors N V",
+  "distinctive": "NXP Semiconductors",
+  "aliases": [
+   "NXP Semiconductors",
+   "NXP Semiconductors N",
+   "NXP Semiconductors N V"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MCHP",
+  "title": "MICROCHIP TECHNOLOGY INC",
+  "distinctive": "Microchip Technology",
+  "aliases": [
+   "MICROCHIP TECHNOLOGY",
+   "MICROCHIP TECHNOLOGY INC",
+   "Microchip Technology"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ON",
+  "title": "ON SEMICONDUCTOR CORP",
+  "distinctive": "onsemi",
+  "aliases": [
+   "ON SEMICONDUCTOR",
+   "ON SEMICONDUCTOR CORP",
+   "onsemi"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MPWR",
+  "title": "MONOLITHIC POWER SYSTEMS INC",
+  "distinctive": "Monolithic Power Systems",
+  "aliases": [
+   "MONOLITHIC POWER",
+   "MONOLITHIC POWER SYSTEMS",
+   "MONOLITHIC POWER SYSTEMS INC",
+   "Monolithic Power Systems"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SWKS",
+  "title": "SKYWORKS SOLUTIONS INC",
+  "distinctive": "Skyworks Solutions",
+  "aliases": [
+   "SKYWORKS",
+   "SKYWORKS SOLUTIONS",
+   "SKYWORKS SOLUTIONS INC",
+   "Skyworks Solutions"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "QRVO",
+  "title": "Qorvo Inc",
+  "distinctive": "Qorvo",
+  "aliases": [
+   "Qorvo",
+   "Qorvo Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LSCC",
+  "title": "LATTICE SEMICONDUCTOR CORP",
+  "distinctive": "Lattice Semiconductor",
+  "aliases": [
+   "LATTICE",
+   "LATTICE SEMICONDUCTOR",
+   "LATTICE SEMICONDUCTOR CORP",
+   "Lattice Semiconductor"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SLAB",
+  "title": "SILICON LABORATORIES INC",
+  "distinctive": "Silicon Laboratories",
+  "aliases": [
+   "SILICON",
+   "SILICON LABORATORIES",
+   "SILICON LABORATORIES INC",
+   "Silicon Laboratories"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AMAT",
+  "title": "APPLIED MATERIALS INC",
+  "distinctive": "Applied Materials",
+  "aliases": [
+   "APPLIED MATERIALS",
+   "APPLIED MATERIALS INC",
+   "Applied Materials"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LRCX",
+  "title": "LAM RESEARCH CORP",
+  "distinctive": "Lam Research",
+  "aliases": [
+   "LAM RESEARCH",
+   "LAM RESEARCH CORP",
+   "Lam Research"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "KLAC",
+  "title": "KLA CORP",
+  "distinctive": "KLA",
+  "aliases": [
+   "KLA",
+   "KLA CORP"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ASML",
+  "title": "ASML HOLDING NV",
+  "distinctive": "ASML",
+  "aliases": [
+   "ASML",
+   "ASML HOLDING NV"
+  ],
+  "source": "sec+manual"
+ },
+ {
+  "ticker": "TER",
+  "title": "TERADYNE INC",
+  "distinctive": "Teradyne",
+  "aliases": [
+   "TERADYNE",
+   "TERADYNE INC",
+   "Teradyne"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ENTG",
+  "title": "ENTEGRIS INC",
+  "distinctive": "Entegris",
+  "aliases": [
+   "ENTEGRIS",
+   "ENTEGRIS INC",
+   "Entegris"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ARM",
+  "title": "ARM HOLDINGS PLC",
+  "distinctive": "Arm Holdings",
+  "aliases": [
+   "ARM",
+   "ARM HOLDINGS PLC",
+   "Arm Holdings"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MRVL",
+  "title": "Marvell Technology Inc",
+  "distinctive": "Marvell Technology",
+  "aliases": [
+   "Marvell",
+   "Marvell Technology",
+   "Marvell Technology Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GFS",
+  "title": "GLOBALFOUNDRIES Inc",
+  "distinctive": "GlobalFoundries",
+  "aliases": [
+   "GLOBALFOUNDRIES",
+   "GLOBALFOUNDRIES Inc",
+   "GlobalFoundries"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "STM",
+  "title": "STMicroelectronics N V",
+  "distinctive": "STMicroelectronics",
+  "aliases": [
+   "STMicroelectronics",
+   "STMicroelectronics N",
+   "STMicroelectronics N V"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "UMC",
+  "title": "UNITED MICROELECTRONICS CORP",
+  "distinctive": "United Microelectronics",
+  "aliases": [
+   "UNITED MICROELECTRONICS",
+   "UNITED MICROELECTRONICS CORP",
+   "United Microelectronics"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "WOLF",
+  "title": "WOLFSPEED INC",
+  "distinctive": "Wolfspeed",
+  "aliases": [
+   "WOLFSPEED",
+   "WOLFSPEED INC",
+   "Wolfspeed"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "POWI",
+  "title": "POWER INTEGRATIONS INC",
+  "distinctive": "Power Integrations",
+  "aliases": [
+   "POWER INTEGRATIONS",
+   "POWER INTEGRATIONS INC",
+   "Power Integrations"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SMTC",
+  "title": "SEMTECH CORP",
+  "distinctive": "Semtech",
+  "aliases": [
+   "SEMTECH",
+   "SEMTECH CORP",
+   "Semtech"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ALAB",
+  "title": "Astera Labs Inc",
+  "distinctive": "Astera Labs",
+  "aliases": [
+   "Astera",
+   "Astera Labs",
+   "Astera Labs Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CRDO",
+  "title": "Credo Technology Group Holding Ltd",
+  "distinctive": "Credo Technology",
+  "aliases": [
+   "Credo",
+   "Credo Technology",
+   "Credo Technology Group Holding Ltd"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "COHR",
+  "title": "COHERENT CORP",
+  "distinctive": "Coherent",
+  "aliases": [
+   "COHERENT",
+   "COHERENT CORP",
+   "Coherent"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LITE",
+  "title": "Lumentum Holdings Inc",
+  "distinctive": "Lumentum",
+  "aliases": [
+   "Lumentum",
+   "Lumentum Holdings Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "RMBS",
+  "title": "RAMBUS INC",
+  "distinctive": "Rambus",
+  "aliases": [
+   "RAMBUS",
+   "RAMBUS INC",
+   "Rambus"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SNDK",
+  "title": "Sandisk Corp",
+  "distinctive": "SanDisk",
+  "aliases": [
+   "SanDisk",
+   "Sandisk",
+   "Sandisk Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "KXIAY",
+  "title": "Kioxia Holdings Corporation",
+  "distinctive": "Kioxia",
+  "aliases": [
+   "Kioxia",
+   "Kioxia Holdings Corporation"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AIXA",
+  "title": "AIXTRON",
+  "distinctive": "AIXTRON",
+  "aliases": [
+   "AIXTRON"
+  ],
+  "source": "manual_curated"
+ },
+ {
+  "ticker": "005930.KS",
+  "title": "Samsung Electronics",
+  "distinctive": "Samsung Electronics",
+  "aliases": [
+   "Samsung",
+   "Samsung Electronics",
+   "Samsung Electronics Co"
+  ],
+  "source": "manual"
+ },
+ {
+  "ticker": "000660.KS",
+  "title": "SK hynix",
+  "distinctive": "SK hynix",
+  "aliases": [
+   "SK hynix"
+  ],
+  "source": "manual_curated"
+ },
+ {
+  "ticker": "NVMI",
+  "title": "NOVA LTD",
+  "distinctive": "Nova",
+  "aliases": [
+   "NOVA LTD",
+   "Nova"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ACLS",
+  "title": "AXCELIS TECHNOLOGIES INC",
+  "distinctive": "Axcelis Technologies",
+  "aliases": [
+   "AXCELIS",
+   "AXCELIS TECHNOLOGIES",
+   "AXCELIS TECHNOLOGIES INC",
+   "Axcelis Technologies"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ONTO",
+  "title": "ONTO INNOVATION INC",
+  "distinctive": "Onto Innovation",
+  "aliases": [
+   "ONTO INNOVATION",
+   "ONTO INNOVATION INC",
+   "Onto Innovation"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "FORM",
+  "title": "FORMFACTOR INC",
+  "distinctive": "FormFactor",
+  "aliases": [
+   "FORMFACTOR",
+   "FORMFACTOR INC",
+   "FormFactor"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AEIS",
+  "title": "ADVANCED ENERGY INDUSTRIES INC",
+  "distinctive": "Advanced Energy Industries",
+  "aliases": [
+   "ADVANCED ENERGY INDUSTRIES",
+   "ADVANCED ENERGY INDUSTRIES INC",
+   "Advanced Energy Industries"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "KLIC",
+  "title": "KULICKE & SOFFA INDUSTRIES INC",
+  "distinctive": "Kulicke and Soffa",
+  "aliases": [
+   "KULICKE & SOFFA",
+   "KULICKE & SOFFA INDUSTRIES",
+   "KULICKE & SOFFA INDUSTRIES INC",
+   "KULICKE SOFFA INDUSTRIES",
+   "KULICKE and SOFFA INDUSTRIES",
+   "Kulicke and Soffa"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SITM",
+  "title": "SITIME Corp",
+  "distinctive": "SiTime",
+  "aliases": [
+   "SITIME",
+   "SITIME Corp",
+   "SiTime"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MTSI",
+  "title": "MACOM Technology Solutions Holdings Inc",
+  "distinctive": "MACOM",
+  "aliases": [
+   "MACOM",
+   "MACOM Technology Solutions",
+   "MACOM Technology Solutions Holdings Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "INDI",
+  "title": "indie Semiconductor Inc",
+  "distinctive": "indie Semiconductor",
+  "aliases": [
+   "indie",
+   "indie Semiconductor",
+   "indie Semiconductor Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MSFT",
+  "title": "MICROSOFT CORP",
+  "distinctive": "Microsoft",
+  "aliases": [
+   "MICROSOFT",
+   "MICROSOFT CORP",
+   "Microsoft"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ORCL",
+  "title": "ORACLE CORP",
+  "distinctive": "Oracle",
+  "aliases": [
+   "ORACLE",
+   "ORACLE CORP",
+   "Oracle"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CRM",
+  "title": "Salesforce Inc",
+  "distinctive": "Salesforce",
+  "aliases": [
+   "Salesforce",
+   "Salesforce Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ADBE",
+  "title": "ADOBE INC",
+  "distinctive": "Adobe",
+  "aliases": [
+   "ADOBE",
+   "ADOBE INC",
+   "Adobe"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NOW",
+  "title": "ServiceNow Inc",
+  "distinctive": "ServiceNow",
+  "aliases": [
+   "ServiceNow",
+   "ServiceNow Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SAP",
+  "title": "SAP SE",
+  "distinctive": "SAP",
+  "aliases": [
+   "SAP",
+   "SAP SE"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "IBM",
+  "title": "INTERNATIONAL BUSINESS MACHINES CORP",
+  "distinctive": "IBM",
+  "aliases": [
+   "IBM",
+   "INTERNATIONAL BUSINESS MACHINES",
+   "INTERNATIONAL BUSINESS MACHINES CORP"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "INTU",
+  "title": "INTUIT INC",
+  "distinctive": "Intuit",
+  "aliases": [
+   "INTUIT",
+   "INTUIT INC",
+   "Intuit"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PLTR",
+  "title": "Palantir Technologies Inc",
+  "distinctive": "Palantir",
+  "aliases": [
+   "Palantir",
+   "Palantir Technologies",
+   "Palantir Technologies Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SNOW",
+  "title": "Snowflake Inc",
+  "distinctive": "Snowflake",
+  "aliases": [
+   "Snowflake",
+   "Snowflake Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CRWD",
+  "title": "CrowdStrike Holdings Inc",
+  "distinctive": "CrowdStrike",
+  "aliases": [
+   "CrowdStrike",
+   "CrowdStrike Holdings Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PANW",
+  "title": "Palo Alto Networks Inc",
+  "distinctive": "Palo Alto Networks",
+  "aliases": [
+   "Palo Alto",
+   "Palo Alto Networks",
+   "Palo Alto Networks Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "FTNT",
+  "title": "Fortinet Inc",
+  "distinctive": "Fortinet",
+  "aliases": [
+   "Fortinet",
+   "Fortinet Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ZS",
+  "title": "Zscaler Inc",
+  "distinctive": "Zscaler",
+  "aliases": [
+   "Zscaler",
+   "Zscaler Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "S",
+  "title": "SentinelOne Inc",
+  "distinctive": "SentinelOne",
+  "aliases": [
+   "SentinelOne",
+   "SentinelOne Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NET",
+  "title": "Cloudflare Inc",
+  "distinctive": "Cloudflare",
+  "aliases": [
+   "Cloudflare",
+   "Cloudflare Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "DDOG",
+  "title": "Datadog Inc",
+  "distinctive": "Datadog",
+  "aliases": [
+   "Datadog",
+   "Datadog Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MDB",
+  "title": "MongoDB Inc",
+  "distinctive": "MongoDB",
+  "aliases": [
+   "MongoDB",
+   "MongoDB Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CFLT",
+  "title": "Confluent",
+  "distinctive": "Confluent",
+  "aliases": [
+   "Confluent"
+  ],
+  "source": "manual_curated"
+ },
+ {
+  "ticker": "GTLB",
+  "title": "Gitlab Inc",
+  "distinctive": "GitLab",
+  "aliases": [
+   "GitLab",
+   "Gitlab",
+   "Gitlab Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TEAM",
+  "title": "Atlassian Corp",
+  "distinctive": "Atlassian",
+  "aliases": [
+   "Atlassian",
+   "Atlassian Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "WDAY",
+  "title": "Workday Inc",
+  "distinctive": "Workday",
+  "aliases": [
+   "Workday",
+   "Workday Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ADSK",
+  "title": "Autodesk Inc",
+  "distinctive": "Autodesk",
+  "aliases": [
+   "Autodesk",
+   "Autodesk Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ANSS",
+  "title": "Ansys",
+  "distinctive": "Ansys",
+  "aliases": [
+   "Ansys"
+  ],
+  "source": "manual_curated"
+ },
+ {
+  "ticker": "CDNS",
+  "title": "CADENCE DESIGN SYSTEMS INC",
+  "distinctive": "Cadence Design Systems",
+  "aliases": [
+   "CADENCE DESIGN",
+   "CADENCE DESIGN SYSTEMS",
+   "CADENCE DESIGN SYSTEMS INC",
+   "Cadence Design Systems"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SNPS",
+  "title": "SYNOPSYS INC",
+  "distinctive": "Synopsys",
+  "aliases": [
+   "SYNOPSYS",
+   "SYNOPSYS INC",
+   "Synopsys"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ROP",
+  "title": "ROPER TECHNOLOGIES INC",
+  "distinctive": "Roper Technologies",
+  "aliases": [
+   "ROPER",
+   "ROPER TECHNOLOGIES",
+   "ROPER TECHNOLOGIES INC",
+   "Roper Technologies"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PTC",
+  "title": "PTC INC",
+  "distinctive": "PTC",
+  "aliases": [
+   "PTC",
+   "PTC INC"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "HUBS",
+  "title": "HUBSPOT INC",
+  "distinctive": "HubSpot",
+  "aliases": [
+   "HUBSPOT",
+   "HUBSPOT INC",
+   "HubSpot"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "DOCU",
+  "title": "DOCUSIGN INC",
+  "distinctive": "DocuSign",
+  "aliases": [
+   "DOCUSIGN",
+   "DOCUSIGN INC",
+   "DocuSign"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "OKTA",
+  "title": "Okta Inc",
+  "distinctive": "Okta",
+  "aliases": [
+   "Okta",
+   "Okta Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TWLO",
+  "title": "TWILIO INC",
+  "distinctive": "Twilio",
+  "aliases": [
+   "TWILIO",
+   "TWILIO INC",
+   "Twilio"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ESTC",
+  "title": "Elastic N V",
+  "distinctive": "Elastic",
+  "aliases": [
+   "Elastic",
+   "Elastic N",
+   "Elastic N V"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "DT",
+  "title": "Dynatrace Inc",
+  "distinctive": "Dynatrace",
+  "aliases": [
+   "Dynatrace",
+   "Dynatrace Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PATH",
+  "title": "UiPath Inc",
+  "distinctive": "UiPath",
+  "aliases": [
+   "UiPath",
+   "UiPath Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AI",
+  "title": "C3 ai Inc",
+  "distinctive": "C3.ai",
+  "aliases": [
+   "C3 ai",
+   "C3 ai Inc",
+   "C3.ai"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "U",
+  "title": "Unity Software Inc",
+  "distinctive": "Unity Software",
+  "aliases": [
+   "Unity Software",
+   "Unity Software Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "RBLX",
+  "title": "Roblox Corp",
+  "distinctive": "Roblox",
+  "aliases": [
+   "Roblox",
+   "Roblox Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "APP",
+  "title": "AppLovin Corp",
+  "distinctive": "AppLovin",
+  "aliases": [
+   "AppLovin",
+   "AppLovin Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NFLX",
+  "title": "NETFLIX INC",
+  "distinctive": "Netflix",
+  "aliases": [
+   "NETFLIX",
+   "NETFLIX INC",
+   "Netflix"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "FICO",
+  "title": "FAIR ISAAC CORP",
+  "distinctive": "Fair Isaac",
+  "aliases": [
+   "FAIR ISAAC",
+   "FAIR ISAAC CORP",
+   "Fair Isaac"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ZM",
+  "title": "Zoom Communications Inc",
+  "distinctive": "Zoom",
+  "aliases": [
+   "Zoom",
+   "Zoom Communications",
+   "Zoom Communications Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GWRE",
+  "title": "Guidewire Software Inc",
+  "distinctive": "Guidewire",
+  "aliases": [
+   "Guidewire",
+   "Guidewire Software",
+   "Guidewire Software Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MNDY",
+  "title": "monday com Ltd",
+  "distinctive": "monday.com",
+  "aliases": [
+   "monday com",
+   "monday com Ltd",
+   "monday.com"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "FROG",
+  "title": "JFrog Ltd",
+  "distinctive": "JFrog",
+  "aliases": [
+   "JFrog",
+   "JFrog Ltd"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TTD",
+  "title": "Trade Desk Inc",
+  "distinctive": "The Trade Desk",
+  "aliases": [
+   "The Trade Desk",
+   "Trade Desk",
+   "Trade Desk Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SHOP",
+  "title": "SHOPIFY INC",
+  "distinctive": "Shopify",
+  "aliases": [
+   "SHOPIFY",
+   "SHOPIFY INC",
+   "Shopify"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "UBER",
+  "title": "Uber Technologies Inc",
+  "distinctive": "Uber",
+  "aliases": [
+   "Uber",
+   "Uber Technologies",
+   "Uber Technologies Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ABNB",
+  "title": "Airbnb Inc",
+  "distinctive": "Airbnb",
+  "aliases": [
+   "Airbnb",
+   "Airbnb Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "XYZ",
+  "title": "Block Inc",
+  "distinctive": "Block",
+  "aliases": [
+   "Block",
+   "Block Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AXON",
+  "title": "AXON ENTERPRISE INC",
+  "distinctive": "Axon Enterprise",
+  "aliases": [
+   "AXON ENTERPRISE",
+   "AXON ENTERPRISE INC",
+   "Axon Enterprise"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AAPL",
+  "title": "Apple Inc",
+  "distinctive": "Apple",
+  "aliases": [
+   "Apple",
+   "Apple Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GOOGL",
+  "title": "Alphabet Inc",
+  "distinctive": "Alphabet",
+  "aliases": [
+   "Alphabet",
+   "Alphabet Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AMZN",
+  "title": "AMAZON COM INC",
+  "distinctive": "Amazon",
+  "aliases": [
+   "AMAZON COM",
+   "AMAZON COM INC",
+   "Amazon"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "META",
+  "title": "Meta Platforms Inc",
+  "distinctive": "Meta Platforms",
+  "aliases": [
+   "Meta Platforms",
+   "Meta Platforms Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "DELL",
+  "title": "Dell Technologies Inc",
+  "distinctive": "Dell Technologies",
+  "aliases": [
+   "Dell",
+   "Dell Technologies",
+   "Dell Technologies Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "HPE",
+  "title": "Hewlett Packard Enterprise Co",
+  "distinctive": "Hewlett Packard Enterprise",
+  "aliases": [
+   "Hewlett Packard Enterprise",
+   "Hewlett Packard Enterprise Co"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SMCI",
+  "title": "Super Micro Computer Inc",
+  "distinctive": "Super Micro Computer",
+  "aliases": [
+   "Super Micro Computer",
+   "Super Micro Computer Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ANET",
+  "title": "Arista Networks Inc",
+  "distinctive": "Arista Networks",
+  "aliases": [
+   "Arista",
+   "Arista Networks",
+   "Arista Networks Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CSCO",
+  "title": "CISCO SYSTEMS INC",
+  "distinctive": "Cisco",
+  "aliases": [
+   "CISCO",
+   "CISCO SYSTEMS",
+   "CISCO SYSTEMS INC",
+   "Cisco"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "JNPR",
+  "title": "Juniper Networks",
+  "distinctive": "Juniper Networks",
+  "aliases": [
+   "Juniper Networks"
+  ],
+  "source": "manual_curated"
+ },
+ {
+  "ticker": "NTAP",
+  "title": "NetApp Inc",
+  "distinctive": "NetApp",
+  "aliases": [
+   "NetApp",
+   "NetApp Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "WDC",
+  "title": "WESTERN DIGITAL CORP",
+  "distinctive": "Western Digital",
+  "aliases": [
+   "WESTERN",
+   "WESTERN DIGITAL",
+   "WESTERN DIGITAL CORP",
+   "Western Digital"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "STX",
+  "title": "Seagate Technology Holdings plc",
+  "distinctive": "Seagate",
+  "aliases": [
+   "Seagate",
+   "Seagate Technology",
+   "Seagate Technology Holdings plc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PSTG",
+  "title": "Pure Storage",
+  "distinctive": "Pure Storage",
+  "aliases": [
+   "Pure Storage"
+  ],
+  "source": "manual_curated"
+ },
+ {
+  "ticker": "CIEN",
+  "title": "CIENA CORP",
+  "distinctive": "Ciena",
+  "aliases": [
+   "CIENA",
+   "CIENA CORP",
+   "Ciena"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NOK",
+  "title": "NOKIA CORP",
+  "distinctive": "Nokia",
+  "aliases": [
+   "NOKIA CORP",
+   "Nokia"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ERIC",
+  "title": "ERICSSON LM TELEPHONE CO",
+  "distinctive": "Ericsson",
+  "aliases": [
+   "ERICSSON LM TELEPHONE",
+   "ERICSSON LM TELEPHONE CO",
+   "Ericsson"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GLW",
+  "title": "CORNING INC",
+  "distinctive": "Corning",
+  "aliases": [
+   "CORNING",
+   "CORNING INC",
+   "Corning"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "VRT",
+  "title": "Vertiv Holdings Co",
+  "distinctive": "Vertiv",
+  "aliases": [
+   "Vertiv",
+   "Vertiv Holdings Co"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NBIS",
+  "title": "Nebius Group N V",
+  "distinctive": "Nebius",
+  "aliases": [
+   "Nebius",
+   "Nebius Group N",
+   "Nebius Group N V"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CRWV",
+  "title": "CoreWeave Inc",
+  "distinctive": "CoreWeave",
+  "aliases": [
+   "CoreWeave",
+   "CoreWeave Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CORZ",
+  "title": "Core Scientific Inc /tx",
+  "distinctive": "Core Scientific",
+  "aliases": [
+   "Core Scientific",
+   "Core Scientific Inc /tx"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CLSK",
+  "title": "CLEANSPARK INC",
+  "distinctive": "CleanSpark",
+  "aliases": [
+   "CLEANSPARK INC",
+   "CleanSpark"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "WYFI",
+  "title": "WhiteFiber Inc",
+  "distinctive": "WhiteFiber",
+  "aliases": [
+   "WhiteFiber",
+   "WhiteFiber Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PENG",
+  "title": "Penguin Solutions Inc",
+  "distinctive": "Penguin Solutions",
+  "aliases": [
+   "Penguin",
+   "Penguin Solutions",
+   "Penguin Solutions Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "HPQ",
+  "title": "HP INC",
+  "distinctive": "HP",
+  "aliases": [
+   "HP",
+   "HP INC"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "XOM",
+  "title": "EXXON MOBIL CORP",
+  "distinctive": "Exxon Mobil",
+  "aliases": [
+   "EXXON MOBIL",
+   "EXXON MOBIL CORP",
+   "Exxon Mobil"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CVX",
+  "title": "CHEVRON CORP",
+  "distinctive": "Chevron",
+  "aliases": [
+   "CHEVRON",
+   "CHEVRON CORP",
+   "Chevron"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "COP",
+  "title": "CONOCOPHILLIPS",
+  "distinctive": "ConocoPhillips",
+  "aliases": [
+   "CONOCOPHILLIPS",
+   "ConocoPhillips"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "EOG",
+  "title": "EOG RESOURCES INC",
+  "distinctive": "EOG Resources",
+  "aliases": [
+   "EOG",
+   "EOG RESOURCES",
+   "EOG RESOURCES INC",
+   "EOG Resources"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SLB",
+  "title": "SLB LIMITED",
+  "distinctive": "Schlumberger",
+  "aliases": [
+   "SLB",
+   "SLB LIMITED",
+   "Schlumberger"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "OXY",
+  "title": "OCCIDENTAL PETROLEUM CORP",
+  "distinctive": "Occidental Petroleum",
+  "aliases": [
+   "OCCIDENTAL",
+   "OCCIDENTAL PETROLEUM",
+   "OCCIDENTAL PETROLEUM CORP",
+   "Occidental Petroleum"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "KMI",
+  "title": "KINDER MORGAN INC",
+  "distinctive": "Kinder Morgan",
+  "aliases": [
+   "KINDER MORGAN",
+   "KINDER MORGAN INC",
+   "Kinder Morgan"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "WMB",
+  "title": "WILLIAMS COMPANIES INC",
+  "distinctive": "Williams",
+  "aliases": [
+   "WILLIAMS",
+   "WILLIAMS COMPANIES INC",
+   "Williams"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LNG",
+  "title": "Cheniere Energy Inc",
+  "distinctive": "Cheniere Energy",
+  "aliases": [
+   "Cheniere",
+   "Cheniere Energy",
+   "Cheniere Energy Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NEE",
+  "title": "NEXTERA ENERGY INC",
+  "distinctive": "NextEra Energy",
+  "aliases": [
+   "NEXTERA",
+   "NEXTERA ENERGY",
+   "NEXTERA ENERGY INC",
+   "NextEra Energy"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "DUK",
+  "title": "Duke Energy CORP",
+  "distinctive": "Duke Energy",
+  "aliases": [
+   "Duke Energy",
+   "Duke Energy CORP"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SO",
+  "title": "SOUTHERN CO",
+  "distinctive": "Southern Company",
+  "aliases": [
+   "SOUTHERN CO",
+   "Southern Company"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "VST",
+  "title": "Vistra Corp",
+  "distinctive": "Vistra",
+  "aliases": [
+   "Vistra",
+   "Vistra Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CEG",
+  "title": "Constellation Energy Corp",
+  "distinctive": "Constellation Energy",
+  "aliases": [
+   "Constellation Energy",
+   "Constellation Energy Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GEV",
+  "title": "GE Vernova Inc",
+  "distinctive": "GE Vernova",
+  "aliases": [
+   "GE Vernova",
+   "GE Vernova Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NRG",
+  "title": "NRG ENERGY INC",
+  "distinctive": "NRG Energy",
+  "aliases": [
+   "NRG",
+   "NRG ENERGY",
+   "NRG ENERGY INC",
+   "NRG Energy"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BE",
+  "title": "Bloom Energy Corp",
+  "distinctive": "Bloom Energy",
+  "aliases": [
+   "Bloom",
+   "Bloom Energy",
+   "Bloom Energy Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "FCEL",
+  "title": "FUELCELL ENERGY INC",
+  "distinctive": "FuelCell Energy",
+  "aliases": [
+   "FUELCELL ENERGY",
+   "FUELCELL ENERGY INC",
+   "FuelCell Energy"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "FSLR",
+  "title": "FIRST SOLAR INC",
+  "distinctive": "First Solar",
+  "aliases": [
+   "FIRST SOLAR",
+   "FIRST SOLAR INC",
+   "First Solar"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ENPH",
+  "title": "Enphase Energy Inc",
+  "distinctive": "Enphase Energy",
+  "aliases": [
+   "Enphase",
+   "Enphase Energy",
+   "Enphase Energy Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "RUN",
+  "title": "Sunrun Inc",
+  "distinctive": "Sunrun",
+  "aliases": [
+   "Sunrun",
+   "Sunrun Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PLUG",
+  "title": "PLUG POWER INC",
+  "distinctive": "Plug Power",
+  "aliases": [
+   "PLUG POWER",
+   "PLUG POWER INC",
+   "Plug Power"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "OKLO",
+  "title": "Oklo Inc",
+  "distinctive": "Oklo",
+  "aliases": [
+   "Oklo",
+   "Oklo Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SMR",
+  "title": "NUSCALE POWER Corp",
+  "distinctive": "NuScale Power",
+  "aliases": [
+   "NUSCALE POWER",
+   "NUSCALE POWER Corp",
+   "NuScale Power"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CCJ",
+  "title": "CAMECO CORP",
+  "distinctive": "Cameco",
+  "aliases": [
+   "CAMECO",
+   "CAMECO CORP",
+   "Cameco"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TLN",
+  "title": "Talen Energy Corp",
+  "distinctive": "Talen Energy",
+  "aliases": [
+   "Talen",
+   "Talen Energy",
+   "Talen Energy Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "JPM",
+  "title": "JPMORGAN CHASE & CO",
+  "distinctive": "JPMorgan Chase",
+  "aliases": [
+   "JPMORGAN CHASE",
+   "JPMORGAN CHASE &",
+   "JPMORGAN CHASE & CO",
+   "JPMORGAN CHASE and",
+   "JPMorgan Chase"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BAC",
+  "title": "BANK OF AMERICA CORP",
+  "distinctive": "Bank of America",
+  "aliases": [
+   "BANK OF AMERICA",
+   "BANK OF AMERICA CORP",
+   "Bank of America"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GS",
+  "title": "GOLDMAN SACHS GROUP INC",
+  "distinctive": "Goldman Sachs",
+  "aliases": [
+   "GOLDMAN SACHS",
+   "GOLDMAN SACHS GROUP INC",
+   "Goldman Sachs"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MS",
+  "title": "MORGAN STANLEY",
+  "distinctive": "Morgan Stanley",
+  "aliases": [
+   "MORGAN STANLEY",
+   "Morgan Stanley"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BLK",
+  "title": "BlackRock Inc",
+  "distinctive": "BlackRock",
+  "aliases": [
+   "BlackRock",
+   "BlackRock Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BX",
+  "title": "Blackstone Inc",
+  "distinctive": "Blackstone",
+  "aliases": [
+   "Blackstone",
+   "Blackstone Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "KKR",
+  "title": "KKR & Co Inc",
+  "distinctive": "KKR",
+  "aliases": [
+   "KKR",
+   "KKR &",
+   "KKR & Co Inc",
+   "KKR and"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SCHW",
+  "title": "SCHWAB CHARLES CORP",
+  "distinctive": "Charles Schwab",
+  "aliases": [
+   "Charles Schwab",
+   "SCHWAB CHARLES",
+   "SCHWAB CHARLES CORP"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "V",
+  "title": "VISA INC",
+  "distinctive": "Visa",
+  "aliases": [
+   "VISA",
+   "VISA INC",
+   "Visa"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MA",
+  "title": "Mastercard Inc",
+  "distinctive": "Mastercard",
+  "aliases": [
+   "Mastercard",
+   "Mastercard Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AXP",
+  "title": "AMERICAN EXPRESS CO",
+  "distinctive": "American Express",
+  "aliases": [
+   "AMERICAN EXPRESS",
+   "AMERICAN EXPRESS CO",
+   "American Express"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PYPL",
+  "title": "PayPal Holdings Inc",
+  "distinctive": "PayPal",
+  "aliases": [
+   "PayPal",
+   "PayPal Holdings Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "COIN",
+  "title": "Coinbase Global Inc",
+  "distinctive": "Coinbase",
+  "aliases": [
+   "Coinbase",
+   "Coinbase Global",
+   "Coinbase Global Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "SPGI",
+  "title": "S&P Global Inc",
+  "distinctive": "S&P Global",
+  "aliases": [
+   "S P Global",
+   "S and P Global",
+   "S&P Global",
+   "S&P Global Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NDAQ",
+  "title": "NASDAQ INC",
+  "distinctive": "Nasdaq",
+  "aliases": [
+   "NASDAQ",
+   "NASDAQ INC",
+   "Nasdaq"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LMT",
+  "title": "LOCKHEED MARTIN CORP",
+  "distinctive": "Lockheed Martin",
+  "aliases": [
+   "LOCKHEED MARTIN",
+   "LOCKHEED MARTIN CORP",
+   "Lockheed Martin"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "RTX",
+  "title": "RTX Corp",
+  "distinctive": "RTX",
+  "aliases": [
+   "RTX",
+   "RTX Corp"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NOC",
+  "title": "NORTHROP GRUMMAN CORP",
+  "distinctive": "Northrop Grumman",
+  "aliases": [
+   "NORTHROP GRUMMAN",
+   "NORTHROP GRUMMAN CORP",
+   "Northrop Grumman"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GD",
+  "title": "GENERAL DYNAMICS CORP",
+  "distinctive": "General Dynamics",
+  "aliases": [
+   "GENERAL DYNAMICS",
+   "GENERAL DYNAMICS CORP",
+   "General Dynamics"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BA",
+  "title": "BOEING CO",
+  "distinctive": "Boeing",
+  "aliases": [
+   "BOEING",
+   "BOEING CO",
+   "Boeing"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LHX",
+  "title": "L3HARRIS TECHNOLOGIES INC",
+  "distinctive": "L3Harris Technologies",
+  "aliases": [
+   "L3HARRIS",
+   "L3HARRIS TECHNOLOGIES",
+   "L3HARRIS TECHNOLOGIES INC",
+   "L3Harris Technologies"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "HII",
+  "title": "HUNTINGTON INGALLS INDUSTRIES INC",
+  "distinctive": "Huntington Ingalls",
+  "aliases": [
+   "HUNTINGTON INGALLS",
+   "HUNTINGTON INGALLS INDUSTRIES",
+   "HUNTINGTON INGALLS INDUSTRIES INC",
+   "Huntington Ingalls"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GE",
+  "title": "GENERAL ELECTRIC CO",
+  "distinctive": "GE Aerospace",
+  "aliases": [
+   "GE Aerospace",
+   "GENERAL ELECTRIC",
+   "GENERAL ELECTRIC CO"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "HON",
+  "title": "HONEYWELL INTERNATIONAL INC",
+  "distinctive": "Honeywell",
+  "aliases": [
+   "HONEYWELL INTERNATIONAL",
+   "HONEYWELL INTERNATIONAL INC",
+   "Honeywell"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "CAT",
+  "title": "CATERPILLAR INC",
+  "distinctive": "Caterpillar",
+  "aliases": [
+   "CATERPILLAR",
+   "CATERPILLAR INC",
+   "Caterpillar"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ETN",
+  "title": "Eaton Corp plc",
+  "distinctive": "Eaton",
+  "aliases": [
+   "Eaton",
+   "Eaton Corp plc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "EMR",
+  "title": "EMERSON ELECTRIC CO",
+  "distinctive": "Emerson Electric",
+  "aliases": [
+   "EMERSON ELECTRIC",
+   "EMERSON ELECTRIC CO",
+   "Emerson Electric"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "LLY",
+  "title": "ELI LILLY & Co",
+  "distinctive": "Eli Lilly",
+  "aliases": [
+   "ELI LILLY",
+   "ELI LILLY &",
+   "ELI LILLY & Co",
+   "ELI LILLY and",
+   "Eli Lilly"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "PFE",
+  "title": "PFIZER INC",
+  "distinctive": "Pfizer",
+  "aliases": [
+   "PFIZER",
+   "PFIZER INC",
+   "Pfizer"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MRK",
+  "title": "Merck & Co Inc",
+  "distinctive": "Merck",
+  "aliases": [
+   "Merck",
+   "Merck &",
+   "Merck & Co Inc",
+   "Merck and"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "JNJ",
+  "title": "JOHNSON & JOHNSON",
+  "distinctive": "Johnson & Johnson",
+  "aliases": [
+   "JOHNSON & JOHNSON",
+   "JOHNSON JOHNSON",
+   "JOHNSON and JOHNSON",
+   "Johnson & Johnson"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "ABBV",
+  "title": "AbbVie Inc",
+  "distinctive": "AbbVie",
+  "aliases": [
+   "AbbVie",
+   "AbbVie Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BMY",
+  "title": "BRISTOL MYERS SQUIBB CO",
+  "distinctive": "Bristol-Myers Squibb",
+  "aliases": [
+   "BRISTOL MYERS SQUIBB",
+   "BRISTOL MYERS SQUIBB CO",
+   "Bristol-Myers Squibb"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AMGN",
+  "title": "AMGEN INC",
+  "distinctive": "Amgen",
+  "aliases": [
+   "AMGEN",
+   "AMGEN INC",
+   "Amgen"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GILD",
+  "title": "GILEAD SCIENCES INC",
+  "distinctive": "Gilead Sciences",
+  "aliases": [
+   "GILEAD",
+   "GILEAD SCIENCES",
+   "GILEAD SCIENCES INC",
+   "Gilead Sciences"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MRNA",
+  "title": "Moderna Inc",
+  "distinctive": "Moderna",
+  "aliases": [
+   "Moderna",
+   "Moderna Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NVO",
+  "title": "NOVO NORDISK A S",
+  "distinctive": "Novo Nordisk",
+  "aliases": [
+   "NOVO NORDISK A S",
+   "Novo Nordisk"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "AZN",
+  "title": "ASTRAZENECA PLC",
+  "distinctive": "AstraZeneca",
+  "aliases": [
+   "ASTRAZENECA",
+   "ASTRAZENECA PLC",
+   "AstraZeneca"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "NVS",
+  "title": "NOVARTIS AG",
+  "distinctive": "Novartis",
+  "aliases": [
+   "NOVARTIS AG",
+   "Novartis"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "REGN",
+  "title": "REGENERON PHARMACEUTICALS INC",
+  "distinctive": "Regeneron",
+  "aliases": [
+   "REGENERON",
+   "REGENERON PHARMACEUTICALS",
+   "REGENERON PHARMACEUTICALS INC",
+   "Regeneron"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "VRTX",
+  "title": "VERTEX PHARMACEUTICALS INC / MA",
+  "distinctive": "Vertex Pharmaceuticals",
+  "aliases": [
+   "VERTEX PHARMACEUTICALS INC / MA",
+   "Vertex Pharmaceuticals"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MSTR",
+  "title": "Strategy Inc",
+  "distinctive": "MicroStrategy",
+  "aliases": [
+   "MicroStrategy",
+   "Strategy Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "RIOT",
+  "title": "Riot Platforms Inc",
+  "distinctive": "Riot Platforms",
+  "aliases": [
+   "Riot Platforms",
+   "Riot Platforms Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "MARA",
+  "title": "MARA Holdings Inc",
+  "distinctive": "MARA Holdings",
+  "aliases": [
+   "MARA",
+   "MARA Holdings",
+   "MARA Holdings Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "HOOD",
+  "title": "Robinhood Markets Inc",
+  "distinctive": "Robinhood",
+  "aliases": [
+   "Robinhood",
+   "Robinhood Markets",
+   "Robinhood Markets Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "BKKT",
+  "title": "Bakkt Inc",
+  "distinctive": "Bakkt",
+  "aliases": [
+   "Bakkt",
+   "Bakkt Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "TSLA",
+  "title": "Tesla Inc",
+  "distinctive": "Tesla",
+  "aliases": [
+   "Tesla",
+   "Tesla Inc"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "F",
+  "title": "FORD MOTOR CO",
+  "distinctive": "Ford",
+  "aliases": [
+   "FORD",
+   "FORD MOTOR",
+   "FORD MOTOR CO",
+   "Ford"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "GM",
+  "title": "General Motors Co",
+  "distinctive": "General Motors",
+  "aliases": [
+   "General",
+   "General Motors",
+   "General Motors Co"
+  ],
+  "source": "sec"
+ },
+ {
+  "ticker": "RIVN",
+  "title": "Rivian Automotive Inc / DE",
+  "distinctive": "Rivian",
+  "aliases": [
+   "Rivian",
+   "Rivian Automotive Inc / DE"
+  ],
+  "source": "sec"
+ }
+]

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Trump Policy-Signal — data path (high level)</title>
+<style>
+  :root { color-scheme: light; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+         margin: 0; padding: 28px; background: #fafafa; color: #1a1a1a; }
+  h1 { font-size: 19px; margin: 0 0 4px; }
+  p.sub { color:#666; margin:0 0 20px; font-size:13px; }
+  #out { background:#fff; border:1px solid #e2e2e2; border-radius:10px; padding:20px; overflow:auto; }
+  #out svg { max-width:100%; height:auto; }
+  details { margin-top:18px; }
+  summary { cursor:pointer; color:#555; font-size:13px; }
+  pre { background:#f4f4f4; padding:14px; border-radius:8px; overflow:auto; font-size:12px; line-height:1.45; }
+  .err { color:#b00020; }
+</style>
+</head>
+<body>
+  <h1>Trump Policy-Signal &mdash; data path (high level)</h1>
+  <p class="sub">words &rarr; extract &rarr; the feed (compile + visualize) &rarr; AI investment system &middot; inner mechanics intentionally omitted</p>
+  <div id="out">rendering&hellip;</div>
+  <details open>
+    <summary>Mermaid source</summary>
+    <pre id="src"></pre>
+  </details>
+  <script type="module">
+    const code = `flowchart LR
+  subgraph WORDS["① Trump's words — the corpus"]
+    direction TB
+    P["Truth Social posts"]
+    O["Official releases"]
+    T["Spoken transcripts"]
+  end
+  EX["② Extract + verify<br/>themes + named companies<br/>confidence-filtered · quote-verified"]
+  subgraph FEED["③ The policy-signal feed"]
+    direction TB
+    MACH["<b>Machine layer</b> · xlsx<br/>weighted events rolled up by<br/>theme · company · time<br/>(queryable substrate)"]
+    HUMAN["<b>Human visual</b> · brief.md<br/>pushing · named · new · discarded<br/>(weekly read)"]
+  end
+  SYS["④ Feeds thesis + AI investment system<br/><i>how it consumes = next phase</i>"]
+  P --> EX
+  O --> EX
+  T --> EX
+  EX --> MACH
+  MACH -->|"render"| HUMAN
+  FEED --> SYS
+  classDef src fill:#eef2ff,stroke:#6366f1,color:#1e1b4b;
+  classDef ex fill:#fef9c3,stroke:#ca8a04,color:#422006;
+  classDef mach fill:#dcfce7,stroke:#16a34a,color:#052e16;
+  classDef human fill:#ffedd5,stroke:#ea580c,color:#431407;
+  classDef sys fill:#f8fafc,stroke:#94a3b8,color:#334155,stroke-dasharray:6 4;
+  class P,O,T src;
+  class EX ex;
+  class MACH mach;
+  class HUMAN human;
+  class SYS sys;`;
+    document.getElementById('src').textContent = code;
+    try {
+      const mermaid = (await import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs')).default;
+      mermaid.initialize({ startOnLoad:false, theme:'default', securityLevel:'loose', flowchart:{ htmlLabels:true } });
+      const { svg } = await mermaid.render('graph1', code);
+      document.getElementById('out').innerHTML = svg;
+    } catch (e) {
+      document.getElementById('out').innerHTML =
+        '<p class="err">Mermaid render failed (' + (e && e.message ? e.message : e) +
+        '). The source is shown below.</p>';
+    }
+  </script>
+</body>
+</html>
