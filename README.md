@@ -91,6 +91,9 @@ python3 scripts/generate_policy_signal.py            # full (allows live WH/APP/
 python3 scripts/generate_policy_signal.py --no-fetch # offline: cache + gazetteer only
 ```
 
+`--no-fetch` also disables LLM refinement, including cached refinement, so
+offline extraction uses only the deterministic extractor.
+
 Requires `pandas`, `numpy`, `requests`, `beautifulsoup4`, `openpyxl`. The `cache/` is gitignored and regenerable.
 
 ## Honest caveats
