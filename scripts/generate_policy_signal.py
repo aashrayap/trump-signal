@@ -831,12 +831,12 @@ def write_brief(events, ent, thm, tl, mkt, discards, counts, as_of,
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-fetch", action="store_true",
-                    help="use cache + gazetteer only (offline, guaranteed to run)")
+                    help="use cache + gazetteer only; disable network fetches and LLM refinement")
     ap.add_argument("--window-weeks", type=int, default=16)
     ap.add_argument("--no-llm", action="store_true",
                     help="force deterministic extraction (skip cached Haiku refine)")
     args = ap.parse_args()
-    use_llm = not args.no_llm
+    use_llm = not (args.no_llm or args.no_fetch)
 
     # ---- 1) load 3 sources ----
     print("loading Truth Social posts (local csv)...")
